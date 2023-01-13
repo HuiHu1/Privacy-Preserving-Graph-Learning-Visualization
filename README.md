@@ -1,1 +1,1 @@
-This repository aims to record some wonderful visualization tools in machine learning.
+This repository aims to record the related work on graph visualization in machine learning.
