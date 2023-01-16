@@ -7,7 +7,7 @@ GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019) [
 ```
 Step 1: Train a GNN model on a dataset: python train_main.py  --dataset $DATASET.
 
-Step 2: Install [GNNLens2](https://github.com/dmlc/GNNLens2#tutorials).
+Step 2: Install GNNLens2.
 
 Step 3: Explain the trained model: python explain_main.py --dataset $DATASET.
 
