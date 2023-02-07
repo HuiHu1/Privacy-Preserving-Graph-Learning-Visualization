@@ -14,4 +14,6 @@ Step 3: Explain the trained model: python explain_main.py --dataset $DATASET.
 Step 4: Launch GNNLens2 for visualization: gnnlens --logdir path+filename.
 ```
 
+
+
 ![](https://github.com/HuiHu1/Graph-Visualization/blob/main/Cora.JPG)
