@@ -15,3 +15,4 @@ Step 4: Launch GNNLens2 for visualization: gnnlens --logdir path+filename.
 ```
 
 ![](https://github.com/HuiHu1/Graph-Visualization/blob/main/Cora.JPG | width=100)
+<img src="[https://your-image-url.type](https://github.com/HuiHu1/Graph-Visualization/blob/main/Cora.JPG)" width="100" height="100">
