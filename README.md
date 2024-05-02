@@ -1,4 +1,4 @@
-This repository aims to record the related work on graph visualization in machine learning.
+This repository aims to record the related work on privacy-preserving graph learning visualization.
 
 ### Run the code
 
