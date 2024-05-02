@@ -15,3 +15,23 @@ Step 3: Explain the trained model by using GNNExplainer: python explain_main.py 
 Step 4: Launch GNNLens2 for visualization: gnnlens --logdir path+filename.
 ```
 ![](https://github.com/HuiHu1/Graph-Visualization/blob/main/Cora.JPG)
+
+### Citation
+```
+@inproceedings{hu2022learning,
+  title={Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes},
+  author={Hu, Hui and Cheng, Lu and Vap, Jayden Parker and Borowczak, Mike},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={3552--3561},
+  year={2022}
+}
+
+@inproceedings{zhao2023unveiling,
+  title={Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs},
+  author={Zhao, Tianyi and Hu, Hui and Cheng, Lu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={3474--3483},
+  year={2023}
+}
+
+```
